@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
-=======================================
+PARTneR (Pacific Risk Tool for Resilience)
+==========================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Working with Pacific communities to predict, plan and prepare for the harm caused by disasters, using RiskScape, a software programme which estimates impacts and losses from natural hazards.
 
-Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
